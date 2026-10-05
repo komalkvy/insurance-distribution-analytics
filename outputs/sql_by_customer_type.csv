@@ -1,0 +1,5 @@
+previously_insured,vehicle_damage,leads,conversions,conv_pct
+0,Yes,182491,45642,25.01
+0,No,23990,910,3.79
+1,Yes,9922,86,0.87
+1,No,164706,72,0.04

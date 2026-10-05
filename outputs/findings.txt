@@ -1,0 +1,23 @@
+KEY FINDINGS (use these real numbers in your resume and strategy note)
+
+Leads: 381,109 | Conversions: 46,710 | Overall conversion: 12.26% | Avg premium: 30,564
+
+Segment extremes (groups with 1,000+ leads):
+- age_band: highest 36-45 at 21.54%, lowest 18-25 at 3.53%
+- previously_insured: highest 0 at 22.55%, lowest 1 at 0.09%
+- vehicle_damage: highest Yes at 23.77%, lowest No at 0.52%
+- vehicle_age: highest > 2 Years at 29.37%, lowest < 1 Year at 4.37%
+- gender: highest Male at 13.84%, lowest Female at 10.39%
+
+Channels analysed (>= 500 leads): 34
+Tier counts: Star=11, Review=11, Fix=6, Scale-up=6
+'Fix' channels hold 44.1% of leads in analysed channels but convert below the median
+
+Regions analysed: 53 | Top-quartile benchmark conversion: 12.18%
+Regions (1,000+ leads) below benchmark: 36
+Estimated uplift if all reach benchmark: 199,582,293
+Conservative (close half the gap): 99,791,147
+Top 3 regions by uplift: 8 (31,669,346), 15 (19,629,483), 50 (18,738,743)
+
+Lead-scoring model AUC: 0.836
+Top-decile conversion 34.9% vs base 12.3% (2.9x lift)
