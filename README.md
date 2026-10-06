@@ -35,6 +35,11 @@ Kaggle: *Health Insurance Cross Sell Prediction* (`train.csv`). Health insurance
 
 Charts are in `outputs/charts/`. Full numbers are in `outputs/findings.txt`. Recommendations are in `docs/strategy_note.md`.
 
+   ## Charts
+   ![Conversion by age band](outputs/charts/conversion_by_age_band.png)
+   ![Channel tiers](outputs/charts/channel_tiers.png)
+   ![Top regions by estimated uplift](outputs/charts/whitespace_top10.png)
+
 ## Limitations
 - Associations, not causes. The segments that convert best are not proven to be the reason they convert.
 - Channel and region codes are anonymised, so the "partner" analysis uses channel codes. The same method applies to named agents and brokers.
